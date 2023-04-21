@@ -1,0 +1,7 @@
+Warning: Permanently added 'c207-010' (ECDSA) to the list of known hosts.
+WARNING (03/08/23 16:18:52): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5303878.hostlist.aAJ1OoUI to get hosts
+starting job on c207-010
+slurmstepd: error: *** JOB 5303878 ON c207-010 CANCELLED AT 2023-03-09T00:18:55 DUE TO TIME LIMIT ***
+Killed by signal 15.
+Terminated
